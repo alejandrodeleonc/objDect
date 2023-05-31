@@ -1,0 +1,5 @@
+train: ./train/images  # 118287 images
+val: ./valid/images  # 118287 images
+
+nc: 1
+names: ['RACIMO']
